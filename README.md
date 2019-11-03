@@ -17,3 +17,12 @@ To add social icons open theme.php and add the following (where you want to disp
 ```
 
 ## Author © Turboblack 2018 www.torba.tk
+
+## Preview
+![Theme preview](/preview.jpg)
+
+## How to use
+1. Login to your WonderCMS website.
+2. Click "Settings" and click "Themes".
+3. Find theme in the list and click "install".
+4. In the "General" tab, select theme to activate it.
