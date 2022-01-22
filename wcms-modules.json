@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "themes": {
+        "black": {
+            "name": "Black",
+            "repo": "https://github.com/robiso/black/tree/master",
+            "zip": "https://github.com/robiso/black/archive/master.zip",
+            "summary": "Darker/black theme with minor animations between switching pages.",
+            "version": "3.2.0",
+            "image": "https://raw.githubusercontent.com/robiso/black/master/preview.jpg"
+        }
+    }
+}
